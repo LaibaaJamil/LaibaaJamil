@@ -1,6 +1,6 @@
 Hi, I'm Laiba Jamil 👋
 
-Final-year BS Software Engineering student and Flutter & full-stack developer from Abbottabad, Pakistan. I enjoy building practical, user-focused applications that solve real-world problems.
+BS Software Engineering graduate and Flutter & full-stack developer from Abbottabad, Pakistan. I enjoy building practical, user-focused applications that solve real-world problems.
 
 ## What I work with
 
