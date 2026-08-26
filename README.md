@@ -1,26 +1,49 @@
-Hi, I'm Laiba Jamil 👋
+# Hi, I'm Laiba Jamil 👋
 
-BS Software Engineering graduate and Flutter & full-stack developer from Abbottabad, Pakistan. I enjoy building practical, user-focused applications that solve real-world problems.
+**Software Engineering Graduate · Flutter & Full-Stack Developer**
 
-## What I work with
+I build practical, production-ready web and cross-platform applications from interface through API to cloud deployment. I work with React, Next.js, Flutter, Node.js/Express, MongoDB, REST APIs, and cloud platforms including Vercel and Railway.
 
-- **Mobile & frontend:** Flutter, Dart, Next.js, React, HTML, CSS
-- **Backend & databases:** Node.js, Express.js, MongoDB Atlas, Socket.io
-- **Tools:** Git, GitHub, Railway, REST APIs
+## Featured Projects
 
-## Featured projects
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **NexaCart** | Full-stack e-commerce and circular-resale marketplace with secure accounts, product listings, cart/order workflows, JWT authentication, and installable Android PWA. | React, Node.js/Express, MongoDB, JWT, Vercel, PWA | [Live](https://nexacart-marketplace.vercel.app) · [Code](https://github.com/LaibaaJamil/nexacart-marketplace) |
+| **SocialHub** | Professional community platform with posts, reactions, comments, follows, saved posts, search, profiles, and personalized following feed. | React, Node.js/Express, MongoDB, JWT | [Live](https://code-alpha-social-media-app-ten.vercel.app) · [Code](https://github.com/LaibaaJamil/CodeAlpha_SocialMediaApp) |
+| **Hum-Raah** | Cross-platform NGO coordination and civic-reporting app (iOS/Android/Web) with role-based dashboards, GIS-based map visibility, report verification, and real-time Socket.io updates. Backend deployed on Railway. | Flutter, Node.js, MongoDB, Socket.io, Railway | [API](https://humraah-backend.railway.app) · [Code](https://github.com/LaibaaJamil/humraah-backend-public) |
+| **Shadinama** | Full-stack wedding stationery and e-invitation platform with dynamic template generator, customizable themes, and admin design studio. Currently in active development. | Next.js, Node.js/Express, MongoDB | [Code](https://github.com/LaibaaJamil/shadinama) |
 
-### Hum-Raah — NGO Coordination & Civic Reporting Platform
+## Technical Stack
 
-A cross-platform Flutter mobile and web app for NGO coordination and civic-issue reporting. Built the Node.js/Express backend with MongoDB Atlas and Socket.io for real-time updates; implemented role-based dashboards, GIS map-pin visibility, and citizen-report verification.
+**Frontend & Mobile**
+- React.js, Next.js, Flutter, Dart
+- HTML5, CSS3, JavaScript, Bootstrap
+- Responsive design, PWA development
 
-### Shadinama — Digital Wedding Invitation Platform
+**Backend & Data**
+- Node.js, Express.js, REST API design
+- MongoDB Atlas, Mongoose, MySQL
+- JWT authentication, Socket.io
 
-A full-stack platform for wedding stationery and digital invitations, built with Next.js, Node.js/Express, and MongoDB Atlas. Includes a personalised e-invitation generator with seven themes and six animation styles, plus an admin-only Design Studio for original SVG assets.
+**Tools & Deployment**
+- Git, GitHub, GitHub Pages
+- Vercel (frontend + serverless API), Railway
+- Postman, npm, environment variable management
 
-## Let's connect
+## Current Work
 
-- LinkedIn: [laiba-jamil-8454aa294](https://www.linkedin.com/in/laiba-jamil-8454aa294)
-- Email: [laibajamil.312@gmail.com](mailto:laibajamil.312@gmail.com)
+- **CodeAlpha Internship** — Building full-stack web applications (August 2026)
+- **Shadinama** — Full-stack wedding stationery and e-invitation platform (in active development)
+- Maintaining comprehensive GitHub documentation for all projects
 
-_Open to entry-level software engineering, Flutter, and full-stack development opportunities._
+## Let's Connect
+
+- **Portfolio**: [laibaajamil.github.io/laiba-portfolio](https://laibaajamil.github.io/laiba-portfolio)
+- **LinkedIn**: [laibajamil312](https://www.linkedin.com/in/laibajamil312)
+- **Email**: laibajamil.312@gmail.com
+
+Open to junior software engineering, full-stack development, React, Node.js, and Flutter opportunities.
+
+---
+
+*Built with ❤️ in Abbottabad, Pakistan*
